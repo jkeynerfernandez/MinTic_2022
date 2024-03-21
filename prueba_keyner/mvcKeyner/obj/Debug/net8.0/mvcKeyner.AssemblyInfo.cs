@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mvcKeyner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f27e3815f2cbd617bda3b26e1cefb481ac6e25c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795e95464a1f3bbfb7a0384b74b3a04b90274ec1")]
 [assembly: System.Reflection.AssemblyProductAttribute("mvcKeyner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mvcKeyner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
