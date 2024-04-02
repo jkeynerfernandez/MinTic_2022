@@ -1,9 +1,0 @@
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.csproj.AssemblyReference.cache
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.GeneratedMSBuildEditorConfig.editorconfig
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.AssemblyInfoInputs.cache
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.AssemblyInfo.cs
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.csproj.CoreCompileInputs.cache
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.MvcApplicationPartsAssemblyInfo.cache
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.RazorAssemblyInfo.cache
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.RazorAssemblyInfo.cs
-/home/riwip5-003/Documents/Keyner/csharp/mvc/prueba_keyner/MvcKeyner/obj/Debug/net8.0/MvcKeyner.sourcelink.json

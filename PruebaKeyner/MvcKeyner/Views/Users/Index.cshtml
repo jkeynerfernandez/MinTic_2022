@@ -1,0 +1,15 @@
+<table>
+    <tr>
+        <td>ID</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>Correo</td>
+    </tr>
+    @foreach (var user in Model){
+        <tr>@user.id</tr>
+        <tr>@user.Names</tr>
+        <tr>@user.LastName</tr>
+        <tr>@user.Email</tr>
+
+    }
+</table>
