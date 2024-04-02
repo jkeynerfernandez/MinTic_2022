@@ -1,15 +1,25 @@
-<table>
-    <tr>
-        <td>ID</td>
-        <td>Nombres</td>
-        <td>Apellidos</td>
-        <td>Correo</td>
-    </tr>
-    @foreach (var user in Model){
-        <tr>@user.id</tr>
-        <tr>@user.Names</tr>
-        <tr>@user.LastName</tr>
-        <tr>@user.Email</tr>
 
+
+<table class="table table-bordered border-primary">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Nombres</th>
+        <th>Apellidos</th>
+        <th>Acciones</th>
+        
+    </tr>
+    </thead>
+    @foreach (var user in Model){
+    <tr>
+        <td>@user.Id</td>
+        <td>@user.Names</td>
+        <td>@user.LastName</td>
+        <td>
+            <a asp-area="" asp-controller="Users" asp-action="Detalles" asp-route-id="@user.Id" ><button  class="btn btn-primary"> detalles</button></a>
+
+        </td>
+        
+    </tr>
     }
 </table>
